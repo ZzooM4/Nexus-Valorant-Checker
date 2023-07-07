@@ -1,0 +1,9 @@
+{
+  "rotating_proxies": true,
+  "username": "pto",
+  "proxy_timeout": 5,
+  "proxy_path": "",
+  "proxy_type": 0,
+  "inactive_time": 7,
+  "proxy_update_time": 0
+}
